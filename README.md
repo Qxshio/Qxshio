@@ -6,7 +6,7 @@
 
 <ul>
   <li>🔧 Breaking code, fixing code, repeat.</li>
-  <li>🌱 Currently learning <strong>Javascript & CSS</strong> (and still Googling things daily).</li>
+  <li>🌱 Currently learning <strong>Javascript & C++</strong> (and still Googling things daily).</li>
   <li>🛠️ Working on some pretty cool stuff.</li>
   <li>🎮 When I’m not coding, you’ll find me gaming or exercising</li>
 </ul>
