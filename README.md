@@ -1,15 +1,8 @@
 <h1 align="center"><b>Hi , I'm Qxshio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p><img align="center" src="https://lanyard.kyrie25.me/api/616244283032338445?waveColor=000000&waveSpotifyColor=202020&gradient=#000000" /></p>
-<p>Just a human who loves coding and lifting weights 💻</p>
+<p>Just a human who loves coding and lifting weights</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<ul>
-  <li>🔧 Breaking code, fixing code, repeat.</li>
-  <li>🌱 Currently learning <strong>Javascript & C++</strong> (and still Googling things daily).</li>
-  <li>🛠️ Working on some pretty cool stuff.</li>
-  <li>🎮 When I’m not coding, you’ll find me gaming or exercising</li>
-</ul>
 
 <p>Always down to chat, or build something awesome! 🚀</p>
 
