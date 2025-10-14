@@ -1,8 +1,32 @@
-<h1 align="center"><b>hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## Director of Recursive Alignment and Distributed Conceptualization  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**Current Title:**  
+Executive Facilitator of Modular Thought Architecture at the *Institute for Unstructured Outcomes*  
 
-<p>Aspiring software engineer</p>
-<p>Vibe coding is obsolete, real ones aura code.</p>
+**Former Roles:**  
+- Senior Associate of Quantitative Intuition at the Global Bureau of Ephemeral Metrics  
+- Principal Coordinator of Parallelized Workplace Vibes at Corpcorp International  
+- Interim Vice Chair of Situational Synergy  
 
-<br>
+---
+
+### Currently Learning
+- Adaptive ambiguity management  
+- Recursive refactoring of self-referential goals  
+- Predictive uncertainty forecasting  
+- Quantum procrastination  
+- Dynamic rat-based optimization *(the gray ones, not the lab kind)*  
+- Advanced "force push and pray" deployment techniques  
+
+---
+
+### Core Competencies
+- Analytical analysis  
+- Verose abstraction (in the cubic sense)  
+- Synthetic empathy pipelines  
+- Holistic version control spirituality  
+- Liquification-as-a-Service (LaaS)  
+
+---
+
+Vibe coding is obsolete, real ones aura code.
